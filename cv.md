@@ -13,6 +13,8 @@ ___
 #### Code example
 ___
 #### Education
+BrGTU 2004-2009
+engineer-mechanic
 ___
 #### Languages:
 - Belarussian/Russian - Native
