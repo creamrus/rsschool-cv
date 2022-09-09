@@ -11,6 +11,16 @@ ___
 I'm a family man. I have a wife and little boy. We want to live in a peaceful place. We need to change our life. And that's why I start to learning coding.
 ___
 #### Code example
+```html
+<h1>Forms</h1>
+
+    <form>
+
+        <div>
+        <label for="email">Email</label>
+        <input type="email" id="email">
+        </div>
+```
 ___
 #### Education
 BrGTU 2004-2009
